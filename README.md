@@ -18,7 +18,7 @@ Qr code component using basic HTML and CSS
 ### Screenshot
 
 ![](images/solution-desktop-screenshot.jpeg)
-![](images/solution-mobile-screenshot.jpeg)
+
 
 ### Links
 
