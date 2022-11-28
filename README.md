@@ -22,8 +22,8 @@ Qr code component using basic HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/doyin156/qr_code_component.git)
-- Live Site URL: [Add live site URL here](https://doyin156.github.io/qr_code_component/)
+- Solution URL: [See solution URL here](https://github.com/doyin156/qr_code_component.git)
+- Live Site URL: [Visit live site URL here](https://doyin156.github.io/qr_code_component/)
 
 ## My process
 Started with the basic HTML layout and then proceeded to styling with CSS
